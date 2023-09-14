@@ -1,16 +1,18 @@
-Hi👋, I'm Zahra Yasin
-Tech Enthusiast | Web Developer | Problem Solver
+                                                                    Hi👋, I'm Zahra Yasin
 
-A dedicated student at PUCIT Lahore, passionate about Web Development & AI and eager to learn and contribute to the Tech world. This is my GitHub playground where I showcase my projects, experiments, and learning journey.
+                                                        Tech Enthusiast | Web Developer | Problem Solver
 
-⚫ Currently learning Full-Stack Web Development with JavaScript and Python
+                          A dedicated student at PUCIT Lahore, passionate about Web Development & AI and eager to learn and contribute to the Tech world.
+                                        This is my GitHub playground where I showcase my projects, experiments, and learning journey.
 
-⚫ Interested in Web Development & AI
+⚪ Currently learning Full-Stack Web Development with JavaScript and Python
 
-⚫ Ask me about HTML, CSS, JavaScript & Python
+⚪ Interested in Web Development & AI
 
-⚫ Problem Solver
+⚪ Ask me about HTML, CSS, JavaScript & Python
 
-⚫ Looking to collaborate on various productive projects, intenships & other opportunities
+⚪ Problem Solver
 
-⚫ How to reach me: zahrayasin2209@gmail.com
+⚪ Looking to collaborate on various productive projects, intenships & other opportunities
+
+⚪ How to reach me: zahrayasin2209@gmail.com
