@@ -1,21 +1,25 @@
+ h1 align="center">Hi 👋, I'm Zahra Yasin</h1>
+<h3 align="center">Tech Enthusiast | Web Developer | Problem Solver</h3>
 
 
+- Currently learning Full-Stack Web Development with **JavaScript and Python**
 
-- 🌱 Currently learning Full-Stack Web Development with **JavaScript and Python**
+- Ask me about **HTML, CSS, JavaScript & Python**
 
-- 💬 Ask me about **HTML, CSS, JavaScript & Python**
+- Intereseted in **Web Development & AI**
 
-- 👯 Looking to collaborate on **various productive projects, internships & other opportunities**
+- Problem Solver
 
-- 📫 How to reach me: **zahrayasin2209@gmail.com**
+- Looking to collaborate on various productive projects, internships & other opportunities
+
+- How to reach me: **zahrayasin2209@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zahra yasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahra yasin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zahra-yasin-18b3a6246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahra yasin" height="30" width="40" /></a>
 <a href="https://instagram.com/zahrayasin2209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zahrayasin2209" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/zahra yasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zahra yasin" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/zahrayasin2209?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zahra yasin" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zahra_yasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zahra_yasin" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@zahrayasin2209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@zahrayasin2209" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
