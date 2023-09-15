@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrayasin2209&label=Profile%20views&color=0e75b6&style=flat" alt="zahrayasin2209" /> </p>
 
-- 🌱 Currently learning Full-Stack Web Development with **JavaScript and Python**
+- Currently learning Full-Stack Web Development with **JavaScript and Python**
 
-- 💬 Ask me about **HTML, CSS, JavaScript & Python**
+- Ask me about **HTML, CSS, JavaScript & Python**
 
-- 👯 Looking to collaborate on **various productive projects, internships & other opportunities**
+- Intereseted in **Web Development & AI**
 
-- 📫 How to reach me: **zahrayasin2209@gmail.com**
+- Problem Solver
+
+- Looking to collaborate on **various productive projects, internships & other opportunities**
+
+- How to reach me: **zahrayasin2209@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
