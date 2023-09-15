@@ -1,6 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrayasin2209&label=Profile%20views&color=0e75b6&style=flat" alt="zahrayasin2209" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahrayasin2209" alt="zahrayasin2209" /></a> </p>
+
 
 - 🌱 Currently learning Full-Stack Web Development with **JavaScript and Python**
 
