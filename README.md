@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zahra Yasin</h1>
-<h3 align="center">Tech Enthusiast | Web Developer | Problem Solver</h3>
+<h3 align="center">🎓 A PUCIT Lahore student with a passion for web development, exploring, learning, and sharing my journey in tech on this GitHub playground.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrayasin2209&label=Profile%20views&color=0e75b6&style=flat" alt="zahrayasin2209" /> </p>
 
