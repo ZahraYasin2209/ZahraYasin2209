@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrayasin2209&label=Profile%20views&color=0e75b6&style=flat" alt="zahrayasin2209" /> </p>
 
 - Currently learning **Full-Stack Web Development** with **JavaScript** and **Python**
-- Interested in **Web Development, Artificial Intelligence** and **Robotics Automation Engineering**
+- Interested in **Web Development** and **Artificial Intelligence**
 - Ask me about **JavaScript, Java and Python**
 - Innovative Problem Solver
 - How to reach me **zahrayasin2209@gmail.com**
