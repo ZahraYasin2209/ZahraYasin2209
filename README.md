@@ -9,7 +9,7 @@
 - Ask me about **JavaScript, Java and Python**
 - Innovative Problem Solver
 - How to reach me **zahrayasin2209@gmail.com**
-- Want to know more about me? Visit my website: https://zahrayasin2209.github.io/Portfolio-Site/
+- Want to know more about me? Visit my website: **https://personal-portfolio-site-890ro29ji-zahra-yasins-projects.vercel.app/#home**
 - **Transforming complex challenges into sleek, minimalist solutions!**
 
 <h3 align="left">Connect with me:</h3>
