@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi, I'm Zahra Yasin</h1>
-<h3 align="center">🎓 A final year PUCIT Lahore student with a passion for web development, exploring, learning, and sharing my journey in tech on this GitHub playground.
+<h3 align="center">🎓 A final-year PUCIT Lahore student passionate about web development. I love exploring, learning, and sharing my tech journey here on GitHub!
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrayasin2209&label=Profile%20views&color=0e75b6&style=flat" alt="zahrayasin2209" /> </p>
