@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjYzZmh0cXR4NThtMDk2cWU1YXF4c28yNmhyanpteXkycjRuaGN0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjYzZmh0cXR4NThtMDk2cWU1YXF4c28yNmhyanpteXkycjRuaGN0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
 </div>
+
 <h1 align="center">Hi 👋, I'm Zahra Yasin</h1>
 <h3 align="center">🎓 A PUCIT Lahore student with a passion for web development, exploring, learning, and sharing my journey in tech on this GitHub playground.
 </h3>
