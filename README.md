@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrayasin2209&label=Profile%20views&color=0e75b6&style=flat" alt="zahrayasin2209" /> </p>
 
 - Currently learning **Full-Stack Web Development** with **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
-- Interested in **Web Development, UI/UX Designing** and **Artificial Intelligence**
+- Interested in **Web Development and **Artificial Intelligence**
 - Ask me about **JavaScript, Java and Python**
 - Innovative Problem Solver
 - How to reach me **zahrayasin2209@gmail.com**
