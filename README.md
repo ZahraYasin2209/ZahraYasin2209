@@ -17,15 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/zahra-yasin-18b3a6246/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/zahrayasin2209" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/zahra_yasin/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/zahra-yasin-18b3a6246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/zahra-yasin-18b3a6246" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/zahrayasin2209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/zahrayasin2209" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/zahra_yasin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/zahra_yasin/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -72,13 +66,17 @@
 
 ### GitHub Stats:
 
-<div align="center" style="background-color:#000000; padding: 20px; border-radius: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZahraYasin2209&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahraYasin2209&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahraYasin2209&layout=compact&theme=radical" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZahraYasin2209&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZahraYasin2209&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahraYasin2209&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 
 <h3 align="center">🚀 Let’s collaborate and build something amazing together!</h3>
