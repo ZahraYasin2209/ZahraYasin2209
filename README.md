@@ -2,10 +2,8 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Ywc3VocW1rNjlvY3lyZDhmZHlrcW53ZXZ1cnNlMTV5b2FpNnJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="350" height="250"/>
 </div>
 
-
 <h1 align="center">Hi, I'm Zahra Yasin</h1>
-<h3 align="center">🎓 A final-year PUCIT Lahore student passionate about web development and AI. I love exploring, learning, and sharing my tech journey here on GitHub!
-</h3>
+<h3 align="center">🎓 A final-year PUCIT Lahore student passionate about web development and AI. I love exploring, learning, and sharing my tech journey here on GitHub!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrayasin2209&label=Profile%20views&color=0e75b6&style=flat" alt="zahrayasin2209" /> </p>
 
@@ -19,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/zahra-yasin-18b3a6246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/zahra-yasin-18b3a6246" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/zahrayasin2209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/zahrayasin2209" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/zahra_yasin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/zahra_yasin/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/zahra-yasin-18b3a6246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/zahra-yasin-18b3a6246" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/zahrayasin2209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/zahrayasin2209" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/zahra_yasin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/zahra_yasin/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,24 +42,24 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn Badge"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn Badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge"/>
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI Badge"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge"/>
 </div>
 
-
 <h3 align="left">GitHub Stats:</h3>
-
-<p style="background-color:#000;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahrayasin2209&show_icons=true&locale=en&layout=compact" alt="zahrayasin2209" /></p>
-
-<p style="background-color:#000;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahrayasin2209&show_icons=true&locale=en" alt="zahrayasin2209" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahrayasin2209&" alt="zahrayasin2209" /></p>
+<div style="background-color:#000; padding: 10px; border-radius: 10px;">
+  <p style="background-color:#000;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahrayasin2209&show_icons=true&locale=en&layout=compact" alt="zahrayasin2209" />
+  </p>
+  <p style="background-color:#000;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahrayasin2209&show_icons=true&locale=en" alt="zahrayasin2209" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahrayasin2209&" alt="zahrayasin2209" /></p>
+</div>
 
 <h3 align="center">🚀 Let’s collaborate and build something amazing together!</h3>
 <p align="center">
