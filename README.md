@@ -70,7 +70,7 @@
 
   
 
-### GitHub Stats
+### GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zahrayasin2209&show_icons=true&theme=radical" height="160"/>
