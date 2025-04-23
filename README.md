@@ -29,7 +29,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
+<div align="left">
   <!-- Language & Frameworks -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -73,9 +73,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahrayasin2209&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahrayasin2209&layout=compact&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahrayasin2209&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zahrayasin2209&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahrayasin2209&layout=compact&theme=radical" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahrayasin2209&theme=radical" height="200"/>
 </div>
 
 
