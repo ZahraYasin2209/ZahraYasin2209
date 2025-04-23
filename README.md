@@ -72,10 +72,12 @@
 
 ### GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahrayasin2209&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahrayasin2209&layout=compact&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahrayasin2209&theme=radical" height="160"/>
+<div align="center" style="background-color:#000000; padding: 20px; border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZahraYasin2209&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahraYasin2209&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahraYasin2209&layout=compact&theme=radical" />
 </div>
 
 
