@@ -53,12 +53,16 @@
 </div>
 
 <h3 align="left">GitHub Stats:</h3>
-<div style="background-color:#000; padding: 10px; border-radius: 10px;">
-  <p style="background-color:#000;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahrayasin2209&show_icons=true&locale=en&layout=compact" alt="zahrayasin2209" />
+<div style="background-color:#000; padding: 20px; border-radius: 10px; text-align: center; margin: 20px auto; width: 80%; color: white;">
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahrayasin2209&show_icons=true&locale=en&layout=compact" alt="zahrayasin2209" />
   </p>
-  <p style="background-color:#000;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahrayasin2209&show_icons=true&locale=en" alt="zahrayasin2209" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahrayasin2209&" alt="zahrayasin2209" /></p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zahrayasin2209&show_icons=true&locale=en" alt="zahrayasin2209" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahrayasin2209&" alt="zahrayasin2209" />
+  </p>
 </div>
 
 <h3 align="center">🚀 Let’s collaborate and build something amazing together!</h3>
