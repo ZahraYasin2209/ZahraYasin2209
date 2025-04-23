@@ -81,6 +81,6 @@
 
 <h3 align="center">🚀 Let’s collaborate and build something amazing together!</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&center=true&width=600&lines=Open+to+ projects,+internships,+and+freelance+opportunities.;Let's+create+impactful+tech+together!;Code.+Design.+Innovate.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=4000&pause=1000&color=F70000&center=true&width=620&lines=Open+to+projects,+internships,+and+freelance+opportunities.;Let's+create+impactful+tech+together!;Code.+Design.+Innovate.">
 </p>
 
