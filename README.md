@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrayasin2209&label=Profile%20views&color=0e75b6&style=flat" alt="zahrayasin2209" /> </p>
 
-- Currently learning **Full-Stack Web Development** with **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and exploring **Generative AI**
-- Interested in **Web Development, UI/UX Designing** and **Artificial Intelligence**
-- Ask me about **JavaScript, Python** and **Java**
+- Currently learning **Full-Stack Web Development** with **React.js** and **Python (Django)** and exploring **Generative AI**
+- Interested in **Software Development, UI/UX Designing** and **Artificial Intelligence**
+- Ask me about **JavaScript** and **Python**
 - Innovative Problem Solver
 - How to reach me **zahrayasin2209@gmail.com**
 - Want to know more about me? Visit my website: **https://personal-portfolio-site-mu.vercel.app/**
