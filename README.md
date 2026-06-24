@@ -48,6 +48,15 @@
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <!-- Gen AI -->
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -77,7 +86,5 @@
 
 <h3 align="center">🚀 Let’s collaborate and build something amazing together!</h3>
 <p align="center" style="width: 100%;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=4000&pause=1000&color=F70000&center=true&width=1000&lines=Open+to+projects,+internships,+and+freelance+opportunities.;Let's+create+impactful+tech+together!;Code.+Design.+Innovate." style="max-width: 100%; height: auto;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=4000&pause=1000&color=F70000&center=true&width=1000&lines=Open+to+full-time+and+freelance+opportunities.;Let's+build+impactful+AI+systems+together!;Python.+LangChain.+MCP+Servers.;Let's+create+impactful+tech+together!;Code.+Design.+Innovate." style="max-width: 100%; height: auto;" />
 </p>
-
-
