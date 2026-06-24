@@ -3,14 +3,13 @@
 </div>
 
 <h1 align="center">Hi, I'm Zahra Yasin</h1>
-<h3 align="center"> A fresh graduate from PUCIT Lahore, passionate about software development and AI. I love exploring, learning, and sharing my tech journey here on GitHub!</h3>
+<h3 align="center"> Software Engineer specializing in Python backend and Generative AI systems. I build production AI chatbots, RAG pipelines, and MCP-based agents using LangChain, LangGraph, FastAPI, and PostgreSQL. I love exploring, learning, and sharing my tech journey here on GitHub!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrayasin2209&label=Profile%20views&color=0e75b6&style=flat" alt="zahrayasin2209" /> </p>
 
-- Currently learning **Full-Stack Web Development** with **React.js** and **Python (Django)** and exploring **Generative AI**
-- Interested in **Software Development, UI/UX Designing** and **Artificial Intelligence**
-- Ask me about **JavaScript** and **Python**
-- Innovative Problem Solver
+- Building production **Gen AI systems** using **LangChain, LangGraph** and **MCP Servers**
+- Experienced with **RAG pipelines** and **LLM integration**
+- Ask me about **Python**, **Backend Development**, **Prompt Engineering** and **MCP Server Architecture**
 - How to reach me **zahrayasin2209@gmail.com**
 - Want to know more about me? Visit my website: **https://personal-portfolio-site-mu.vercel.app/**
 - **Transforming complex challenges into sleek, minimalist solutions!**
@@ -34,7 +33,6 @@
   <!-- Language & Frameworks -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -58,13 +56,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-  <!-- ML Libraries -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </div>
 
 
